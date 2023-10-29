@@ -17,14 +17,17 @@ body1{
 }
   ul{
     list-style: none;
+    display:flex;
 }
 .footer{
   background-color: #24262b;
   padding:70px 0;
+  display:flex;
 }
 .footer-col{
   width:25%;
   padding: 0 15px;
+  display:flex;
 }
 .footer-col h4{
   font-size: 18px;
@@ -33,6 +36,7 @@ body1{
   margin-bottom: 30px;
   font-weight: 500;
   position: relative;
+  display:flex;
 }
 .footer-col h4::before{
   content: '';
@@ -43,9 +47,11 @@ body1{
   height: 2px;
   box-sizing: border-box;
   width: 50px;
+  display:flex;
 }
 .footer-col ul li:not(:last-child){
   margin-bottom: 10px;
+  display:flex;
 }
 .footer-col ul li a{
   font-size: 16px;
@@ -56,10 +62,12 @@ body1{
   color:#bbbbbb;
 display: block;
 transition: all 0.3s ease;
+  display:flex;
 }
 .footer-col ul li a:hover{
   color:#ffffff;
   padding-left: 10px;
+  display:flex;
 }
 form1 input{
   width: 250px;
