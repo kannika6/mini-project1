@@ -1,6 +1,5 @@
 body1{
   line-height: 1.5;
-  display:flex;
 }
 *{
   margin: 0;
@@ -10,6 +9,7 @@ body1{
  .container1{
   max-width: 1170px;
   margin: auto;
+   display:flex;
  }
  .row{
   display: flex;
