@@ -112,7 +112,6 @@ border-radius:30px;
   section{
     background-color: white;
     text-align:center;
-      display:flex;
   }
   /* Styling gallery section where all images are */
   .gallery {
