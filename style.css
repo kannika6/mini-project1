@@ -174,18 +174,4 @@ border-radius:30px;
     transform: translate(-50%, -50%);
   }
   
-  @media (max-width:670px) {
-    .gallery{
-        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-        grid-gap: 10px;
-    }
-    .gallery-img{
-        width:150px;
-        height: 150px;
-    }
-  
-    .heading{
-        font-size: 20px;
-    }
-  }
-  
+ 
