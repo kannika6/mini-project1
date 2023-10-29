@@ -5,13 +5,13 @@ body {
   background-size: cover;
   background-position: center;
   background-image:linear-gradient(rgba(0, 50, 37, 0.8), rgba(0,0,50,0.8)),url("image2.jpg");
-    display:flex;
 }
   .center{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 150px;
+    display:flex;
   }
 div{
     padding-top: 20px;
